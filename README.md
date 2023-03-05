@@ -16,9 +16,9 @@ I have written detailed instructions for use. including changing the number plea
 
 Order the steps to use as follows.
 
-1. open: trace_removal\remove_trace.bat
-2. open: release_x64.exe or release_x86.exe
-3. uninstall: your game client 
+1. open: release_x64.exe or release_x86.exe
+2. uninstall: your game client 
+3. open: trace_removal\remove_trace.bat
 4. after done, restart your PC and apply for a new account.
 
 ---
