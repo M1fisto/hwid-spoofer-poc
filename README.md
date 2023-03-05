@@ -23,7 +23,7 @@ Order the steps to use as follows.
 
 ---
 
-## <a id="content"></a>📜 〢 ## What's Change
+## <a id="content"></a>📜 〢 What's Change
 
 - Hardware ID
 - Reset IP
@@ -33,3 +33,5 @@ Order the steps to use as follows.
 - Regedit 
 - License Windows 10
 - Serial Monitor
+
+---
