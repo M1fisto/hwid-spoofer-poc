@@ -22,3 +22,16 @@ Order the steps to use as follows.
 4. after done, restart your PC and apply for a new account.
 
 ---
+
+## <a id="content"></a>📜 〢 What's Change
+
+- Hardware ID
+- Reset IP
+- Serial Number
+- S/N 
+- SMBIOS 
+- Regedit 
+- License Windows 10
+- Serial Monitor
+
+---
